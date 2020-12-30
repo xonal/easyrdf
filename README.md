@@ -1,4 +1,4 @@
-EasyRd
+EasyRdf
 =======
 
 [![Build Status](https://travis-ci.com/easyrdf/easyrdf.svg?branch=master)](https://travis-ci.com/easyrdf/easyrdf)
